@@ -1,16 +1,24 @@
-### Hi there 👋
+![](https://github-readme-stats.vercel.app/api/top-langs?username=hungair0925&show_icons=true&locale=en&layout=compact)
 
-<!--
-**hungair0925/hungair0925** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Programming Languages
+![](https://skillicons.dev/icons?i=python,js,typescript,go,java)
 
-Here are some ideas to get you started:
+## Web Frameworks (Client) 
+![](https://skillicons.dev/icons?i=react,next,vue)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Web Frameworks (Server)
+![](https://skillicons.dev/icons?i=django,fastapi,flask)
+
+## Desktop Frameworks
+![](https://skillicons.dev/icons?i=electron)
+
+## DB
+![](https://skillicons.dev/icons?i=postgresql,mysql,redis,dynamodb)
+
+## Infrastructures
+![](https://skillicons.dev/icons?i=aws,linux,nginx)
+
+## Dev Tool
+![](https://skillicons.dev/icons?i=github,git,vscode,idea,vim,figma)
+
+
