@@ -1,10 +1,10 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=hungair0925&show_icons=true&locale=en&layout=compact)
 
 ## Programming Languages
-![](https://skillicons.dev/icons?i=python,js,typescript,go,java)
+![](https://skillicons.dev/icons?i=python,js,typescript)
 
 ## Web Frameworks (Client) 
-![](https://skillicons.dev/icons?i=react,next,vue)
+![](https://skillicons.dev/icons?i=react,next)
 
 ## Web Frameworks (Server)
 ![](https://skillicons.dev/icons?i=django,fastapi,flask)
@@ -19,6 +19,6 @@
 ![](https://skillicons.dev/icons?i=aws,linux,nginx)
 
 ## Dev Tool
-![](https://skillicons.dev/icons?i=github,git,vscode,idea,vim,figma)
+![](https://skillicons.dev/icons?i=github,git,vscode,vim,figma)
 
 
