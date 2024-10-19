@@ -1,4 +1,4 @@
-![](https://github-readme-stats.vercel.app/api/top-langs?username=hungair0925&layout=donut)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=hungair0925)
 
 ## Programming Languages
 ![](https://skillicons.dev/icons?i=python,js,typescript)
