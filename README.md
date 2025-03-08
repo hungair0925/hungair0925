@@ -11,8 +11,8 @@
 
 ## 🚀　My Activities
 <div align="left">
-   <img height="180px" src="https://github-readme-stats-hungair0925.vercel.app/api/top-langs/?username=hungair0925&theme=solarized-dark&hide=html,css&langs_count=8&layout=compact&cache_seconds=300" />
-   <img height="180px" src="https://github-readme-stats-hungair0925.vercel.app/api?username=hungair0925&theme=solarized-dark&layout=compact&cache_seconds=300" />
+   <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hungair0925&theme=solarized-dark&hide=html,css&langs_count=8&layout=compact&cache_seconds=300" />
+   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=hungair0925&theme=solarized-dark&layout=compact&cache_seconds=300" />
 </div>
 
 <!--START_SECTION:waka-->
